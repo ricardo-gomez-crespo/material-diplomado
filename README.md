@@ -1,2 +1,3 @@
-# material-diplomado
-Módulo III: Repositorio para la Difusión Científica
+# Plataformas virtuales para la Divulgación Científica
+
+Material didáctico del Módulo III: Repositorios para la Difusión Científica
